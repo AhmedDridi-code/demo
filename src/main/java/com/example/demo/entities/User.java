@@ -1,4 +1,4 @@
-package com.example.demo.entities;
+/*package com.example.demo.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -19,4 +19,4 @@ public class User {
     @Column(name="fullname")
     private String fullname;
 
-}
+}*/
